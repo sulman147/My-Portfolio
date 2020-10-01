@@ -429,6 +429,7 @@ Hero
 }
 .hero-img {
   display: none;
+  margin: 80px;
 }
 .hero-info h4 {
   color: var(--clr-grey-5);
@@ -894,7 +895,6 @@ About Page
 }
 .about-img {
   margin-bottom: 2rem;
-  height: 25rem;
 }
 .about-text .section-title {
   margin-bottom: 2rem;
